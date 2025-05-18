@@ -10,7 +10,7 @@
 
 
 
--Sonraki kısımda ise excel dosyasındaki müşteri bilgileri ile harcama bilgileri dosylarının incelenerek yeni bir kampanya için ulaşılabilicek yeni müşteri sayısına erişilmesi ve bunun analiz edilmesi istendi. 
+-Sonraki kısımda ise excel dosyasındaki müşteri bilgileri ile harcama bilgileri dosylarının incelenerek yeni bir kampanya için ulaşılabilicek yeni müşteri sayısına erişilmesi ve bunun analiz edilmesi istendi. ✔ 
 
 Bu kısımda dosyları python üzerinden pandas library kullanarak yeni dosyalar kısmında klasife ettim ve filtreledim. Bunun üzerine çözümümü sundum. Ancak bu çözüm kısmında hatalı olduğum kısmı ise bu ortaklaşa yapmaya çalıştığım müşteri bulma kısmında filtrelerim çok keskin olduğundan elimde kalan kümede sayı olarak az bir topluluğa eriştiğimi gördüm.
  
