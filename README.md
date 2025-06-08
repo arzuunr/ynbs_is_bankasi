@@ -16,7 +16,7 @@ Bu kısımda dosyları python üzerinden pandas library kullanarak yeni dosyalar
 
 ### **2. Kredi Tahsisi**
 
--Ahsis Tutarına Göre Değişen Yetkili Döngüsü
+-Tahsis Tutarına Göre Değişen Yetkili Döngüsü
 
 Şube yetkisi->Bölge yetkisi->Genel müdürlükteki X Bölümü (Kobi Bankacılığı Bölümü ya da Ticari Krediler Bölümü)->Genel müdürlükteki Kurumsal Krediler Bölümü->Yönetim Kurulu
 
@@ -45,11 +45,11 @@ Bu kısımda dosyları python üzerinden pandas library kullanarak yeni dosyalar
 
 -5 farklı iş parçası için bir önceliklendirme yapıldı.
 
-*Sanal POS Terminallerinde SKT Kontrolünün Kaldırılması
-*Kart Şeması- Processing Integrity Programı Uyum
-*Sanal POS’ta ApplePay Desteği Kurulması
-*Sanal POS’ta Terminal Bazlı Tekil İşlem Limit Kırılımlarının Arttırılması
-*Linkle Tahsilat Eposta Başlığı ve İçerik Düzenlemesi 
+* Sanal POS Terminallerinde SKT Kontrolünün Kaldırılması
+* Kart Şeması- Processing Integrity Programı Uyum
+* Sanal POS’ta ApplePay Desteği Kurulması
+* Sanal POS’ta Terminal Bazlı Tekil İşlem Limit Kırılımlarının Arttırılması
+* Linkle Tahsilat Eposta Başlığı ve İçerik Düzenlemesi 
 
 Yasal zorunluluklar öncelik verilmiştir. Doğrudan karlılık (ücret optimizasyonu, ApplePay gelir artışı) devamında gelip dolaylı etkiler sona alınmıştır.
 
